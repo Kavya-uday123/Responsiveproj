@@ -23,7 +23,7 @@
                 <a class="nav-link" href="employee.php">Reister</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="employee.php">Register</a>
+                <a class="nav-link" href="index.php">Register</a>
               </li>
             </ul>
           </div>
